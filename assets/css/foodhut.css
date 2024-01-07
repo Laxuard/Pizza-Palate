@@ -5157,7 +5157,7 @@
   
   .card-img-top {
     object-fit: cover;
-    height: 260px;
+    height: 260px !important;
     width: 100%;
     border-top-left-radius: calc(0.2rem - 1px);
     border-top-right-radius: calc(0.2rem - 1px);
